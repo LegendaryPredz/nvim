@@ -28,8 +28,7 @@ registers.setup{
 	hide_only_whitespace = true,
 
 	window  = {
-		max_width = 100,
-		min_height = 3,
+   	max_width = 100,
 		border = "rounded"
 	},
 
